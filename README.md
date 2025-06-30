@@ -1,6 +1,6 @@
 # charlotte-shopify-development
 
-🚀 *Shopify Development in Charlotte, NC: Empowering Local Brands with Smart Online Stores*
+#🚀 *Shopify Development in Charlotte, NC: Empowering Local Brands with Smart Online Stores*
 
 “In Charlotte, innovation lives where technology meets business.”
 That’s never been more true than in the world of eCommerce. With hundreds of businesses launching or scaling online stores each year, Charlotte is quickly becoming a hotspot for serious Shopify growth.
